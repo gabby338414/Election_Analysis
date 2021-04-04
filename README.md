@@ -7,6 +7,7 @@
 - 1.How many votes were cast in this congressional election? 
 The Congressional votes were 369,711
 
+![Election_Results.PNG](https://github.com/gabby338414/Election_Analysis/blob/c5cccf2632d2e56605ee9d6b5dbaa5626bcd6b06/Resources/Election_Results.PNG)
 
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - 2.Which county had the largest number of votes? 
