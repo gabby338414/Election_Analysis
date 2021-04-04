@@ -13,6 +13,7 @@ The Congressional votes were 369,711
 - 2.Which county had the largest number of votes? 
 Denver
 
+![County.PNG](https://github.com/gabby338414/Election_Analysis/blob/50ba667f44eb263894f456712d3af73ede442597/Resources/County.PNG)
 
 - 3.Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Charles Casper Stockham received 23.0% of the votes and had a total of (85,213).
