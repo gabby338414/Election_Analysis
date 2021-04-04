@@ -25,6 +25,7 @@ Raymon Anthony Doane: received 3.1% of the votes and had a total of (11,606).
 - 4.Which candidate won the election, what was their vote count, and what was their percentage of the total votes? 
 Diana DeGette won with the winning vote count of 272,892, and winning percentage of 73.8%.
 
+![Winning_Candidates.PNG](https://github.com/gabby338414/Election_Analysis/blob/69826494a14ac5367ddf25f25dddbe6a59dd2404/Resources/Winning_Candidate.PNG)
 
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections. 
 - It can be modified to break down the votes by race, gender, and age. It can also to modified to show areas of improve for each county they scored the lowest.
